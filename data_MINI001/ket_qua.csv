@@ -1,0 +1,4 @@
+id,diem_giao,thoi_gian_phuc_vu,loi_ich,duong_di,so_canh,tau,duoc_chon,da_giao
+1,2,1,6,"1->2",1,3,1,1
+2,4,1,8,"1->2->4",2,5,1,1
+3,6,1,10,"1->2->4->6",3,7,0,0
